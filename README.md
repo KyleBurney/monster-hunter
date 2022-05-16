@@ -12,6 +12,6 @@ which kills all currently spawned tarantulas.
 
 ## Models and Gameplay
 ![Gameplay](Samples/Gameplay.png)
-![Gameplay](Samples/Spider.png)
-![Gameplay](Samples/Dragonfly.png)
-![Gameplay](Samples/Tarantula.png)
+![Spider](Samples/Spider.png)
+![Dragonfly](Samples/Dragonfly.png)
+![Tarantula](Samples/Tarantula.png)
